@@ -541,6 +541,9 @@ body {
     .hero__paragraph{
         font-size: 1rem;
     }
+    .contenedor-video{
+        display: none;
+    }
 
     .subtitle{
         font-size: 1.8rem;
