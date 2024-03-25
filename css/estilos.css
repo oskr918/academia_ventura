@@ -174,10 +174,8 @@ body {
 /* Knowledge */
 
 .knowledge {
-    background-image: url('../images/img_fondo.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
-    overflow: hidden;
+    background-color: #2091f9;
+    color: #fff;
 }
 
 .knowledge__container{
@@ -335,7 +333,7 @@ body {
 /* Footer */
 
 .footer{
-    background-color: #1D293F;
+    background-color: #133158;
 }
 
 .footer__title{
@@ -395,7 +393,7 @@ body {
     display: inline-block;
     height: 50px;
     padding: 0 20px ;
-    background-color: #2091F9;
+    background-color: #1074e5;
     border: none;
     font-size: 1rem;
     color: #fff;
